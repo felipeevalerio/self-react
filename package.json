@@ -1,0 +1,12 @@
+{
+  "name": "@self/self-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsup src/index.tsx --format esm,cjs --dts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
